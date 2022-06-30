@@ -1,3 +1,3 @@
-# iam.kawinphop.com
+# kawin101.github.io
 > * Website Page Personal by Kawinphop Chomnikorn
-> * https://iam.kawinphop.com
+> * https://kawin101.github.io
