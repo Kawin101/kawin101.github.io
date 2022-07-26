@@ -25,3 +25,5 @@
         document.addEventListener("touchend", gestureEnd, false);
     }
 })(document);
+
+  
