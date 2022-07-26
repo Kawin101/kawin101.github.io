@@ -71,6 +71,7 @@
 body {
     background-color: #fff;
     padding:50px;
+    zoom: 125%;
 
     font: 14px/1.5 -apple-system, 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color:#595959;
